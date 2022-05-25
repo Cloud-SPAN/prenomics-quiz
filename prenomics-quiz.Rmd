@@ -137,9 +137,9 @@ quiz(caption = NULL,
 
 ## Finished!
 
-If you got more than one or two of these wrong, we suggested attending our Prenomics Course.
+If you got more than one or two of these wrong we suggest that you register for [Prenomics](https://cloud-span.github.io/prenomics00-intro/). You can either join us at the next online workshop or complete the module via self-study. 
 
 - [Register here!](https://sites.google.com/york.ac.uk/cloud-span/train-with-us#h.87c8lxmy0dr3)
-<!-- - [View course content](https://cloud-span.github.io/prenomics00-intro/) -->
+
 
 See you soon!
